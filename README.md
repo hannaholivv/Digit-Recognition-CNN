@@ -49,6 +49,10 @@ The CNN architecture includes:
 - **Loss Function**: CrossEntropyLoss
 - **Training**: 20 epochs, batch size of 256
 
-## 🔧 Setup and Usage
+## 📂 Project Structure
 
-1. Clone the repository:
+digit-recognition-cnn/
+│
+├── DigitalDigitRecognition.ipynb # Main script for training and evaluation
+├── data # Dataset directory 
+└── README.md # Project documentation
