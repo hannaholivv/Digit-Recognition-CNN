@@ -52,11 +52,6 @@ The CNN architecture includes:
 ## 📂 Project Structure
 
 digit-recognition-cnn/
-
-│
-
-├── DigitalDigitRecognition.ipynb # Main script for training and evaluation
-
-├── data # Dataset directory 
-
-└── README.md # Project documentation
+- DigitalDigitRecognition.ipynb # Main script for training and evaluation
+- data # Dataset directory 
+- README.md # Project documentation
