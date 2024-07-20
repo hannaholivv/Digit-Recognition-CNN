@@ -7,7 +7,7 @@ A robust Convolutional Neural Network (CNN) implemented in PyTorch for recognizi
 - **93% Overall Accuracy** on test dataset
 - Handles 32x32 pixel, 3-channel images
 - 10-category classification (digits 0-9)
-- Efficient training (~56 minutes on standard hardware)
+- Efficient training (~41 minutes on standard hardware)
 
 ## 🧠 Model Architecture
 
@@ -22,24 +22,24 @@ The CNN architecture includes:
 | Metric | Value |
 |--------|-------|
 | Test Accuracy | 93% |
-| Best Training Accuracy | 95.07% |
-| Best Validation Accuracy | 93.07% |
-| Training Time | ~3341 seconds (55.7 minutes) |
+| Best Training Accuracy | 94.94% |
+| Best Validation Accuracy | 92.67% |
+| Training Time | ~2454 seconds (40.9 minutes) |
 
 ### Individual Digit Accuracies
 
 | Digit | Accuracy |
 |-------|----------|
-| 0 | 96% |
-| 1 | 91% |
+| 0 | 94% |
+| 1 | 90% |
 | 2 | 95% |
 | 3 | 91% |
 | 4 | 96% |
-| 5 | 92% |
-| 6 | 94% |
-| 7 | 95% |
+| 5 | 93% |
+| 6 | 93% |
+| 7 | 96% |
 | 8 | 93% |
-| 9 | 94% |
+| 9 | 95% |
 
 ## 🛠️ Implementation Details
 
