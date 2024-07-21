@@ -1,4 +1,4 @@
-# Digital Digit Recognition using CNN with PyTorch
+# Handwritten Digit Recognition using CNN with PyTorch
 
 A robust Convolutional Neural Network (CNN) implemented in PyTorch for recognizing handwritten digits with high accuracy.
 
